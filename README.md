@@ -14,7 +14,6 @@ Before running this project locally, make sure you have the following installed:
 - Node.js & npm
 - MySQL or MariaDB
 - Git
-
 ---
 
 # 🚀 Installation Guide
